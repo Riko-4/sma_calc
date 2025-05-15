@@ -32,11 +32,13 @@ This project demonstrates how a core trading algorithm like SMA can be adapted f
 - Develop full trading logic with buy/sell signal generation on FPGA.
 - Optimize for specific FPGA platforms (e.g., Xilinx Artix-7).
 
-## 🛠Tools Used
+## Tools Used
 
 - Verilog HDL
 - Vivado Design Suite
 - ModelSim (for simulation)
+
+I am still working on further integrating multiple other dynamic strategies together to improve the hit rate of the overall algorithm maintaining the lowest latency possible.  
 
 ## Contact
 
